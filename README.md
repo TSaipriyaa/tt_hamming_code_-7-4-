@@ -1,6 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # Tiny Tapeout Wokwi Project Template
+Wokwi project using XOR and AND gates to construct hamming (7,4) encoder-decoder ckt
 
 - [Read the documentation for project](docs/info.md)
 
