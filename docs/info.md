@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-The three leds in the middle indicate which bit is at fault or flipped. 
+The three leds in the middle indicate which bit is at fault or flipped. If there is no error the leds remain off. 
 
 ## How to test
 
-IF input matches output then its is correct
+If input matches output then its is correct
 
 ## External hardware
 
