@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     441522832268606465       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        Tiny_Tapeout_hammingcode_7,4      # Project title
-  author:       TSaipriyaa     # Your name
+  title:        "Tiny_Tapeout_hammingcode_7,4"      # Project title
+  author:       "TSaipriyaa"     # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Implementation of Hamming (7,4) encoder–decoder with single-bit error detection and correction."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
